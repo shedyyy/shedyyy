@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @shedyyy
-- 👀 I’m interested in HTML/CSS/Python/Javascript
-- 🌱 I’m currently learning HTML/CSS/Python
-- 💞️ I’m looking to collaborate on Javascript
+- 👀 I’m interested in : HTML/CSS/Python/Javascript
+- 🌱 I’m currently learning : HTML/CSS/Python
+- 💞️ I’m looking to collaborate on : Javascript
 - 📫 How to reach me : shpendrashiti@gmail.com
 
 <!---
